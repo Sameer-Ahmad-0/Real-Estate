@@ -1,0 +1,11 @@
+#layer {
+  border-image: linear-gradient(to right, #75fa88, #007ea7);
+  border-image-slice: 1;
+  box-sizing: border-box;
+  width: 384px;
+  height: 460px;
+  left: 792px;
+  top: 460px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(5px);
+}
