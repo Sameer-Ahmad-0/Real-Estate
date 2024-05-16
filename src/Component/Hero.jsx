@@ -29,7 +29,7 @@ const Hero = () => {
         setIsScrolledDown(false);
       }
     };
-
+console.log(handleScroll)
     window.addEventListener("scroll", handleScroll);
 
     return () => {
